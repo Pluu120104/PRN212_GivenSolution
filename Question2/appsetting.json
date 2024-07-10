@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SqlConnection": "Server=PLUU\\MSSQLSERVER03; Database =PRN212_Trial; Uid=sa; Password=123456; Encrypt=False; TrustServerCertificate=True"
+  }
+}
